@@ -12,7 +12,6 @@ This monorepo is divided into three distinct security domains. Click on any doma
 | Security Domain | Project Name | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **[Blue Team / IDS](./AI-Intrusion-Detection)** | `AI-Driven Sniffer` | An autonomous, raw-socket network interceptor that utilizes LLM integration for real-time plaintext credential detection and forensic logging. | 🟢 Active |
-| **[Red Team / Exploitation](./Offensive-Security-Labs)** | `Exploit Engine V1.0` | Automated payload delivery systems and HTTP response parsing architectures. | 🟡 Archived |
 | **[Red Team / OSINT](./Reconnaissance)** | `Ghost Scanner` | Stealth network mapping and service enumeration utility. | 🟡 Archived |
 
 ---
